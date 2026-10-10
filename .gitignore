@@ -1,0 +1,7 @@
+# 密钥:绝不上传
+.env
+# 运行产生的数据(每台电脑自己生成)
+data/
+data_test/
+__pycache__/
+*.pyc
